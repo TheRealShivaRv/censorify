@@ -1,0 +1,16 @@
+{
+    "name": "censorify",
+    "version": "1.0.0",
+    "description": "Censors specified words",
+    "main": "censorify.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TheRealShivaRv/censorify.git"
+    },
+    "keywords": ["censor", "words"],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "R.V. Shiva Subramanian",
+    "license": "ISC"
+}
